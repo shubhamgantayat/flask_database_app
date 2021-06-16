@@ -1,0 +1,36 @@
+backup_logger - 2021-06-15 19:18:46,113 - INFO - logger - 2021-06-15 19:18:45,574 - INFO - Input : 0
+backup_logger - 2021-06-15 19:18:46,249 - ERROR - logger - 2021-06-15 19:18:46,114 - ERROR - division by zero
+backup_logger - 2021-06-15 19:18:46,374 - INFO - logger - 2021-06-15 19:18:46,249 - INFO - End of program
+backup_logger - 2021-06-15 20:09:23,472 - INFO - logger - 2021-06-15 20:09:22,948 - INFO - test : Input : 0
+backup_logger - 2021-06-15 20:09:23,624 - ERROR - logger - 2021-06-15 20:09:23,472 - ERROR - test : division by zero
+backup_logger - 2021-06-15 20:09:23,740 - INFO - logger - 2021-06-15 20:09:23,624 - INFO - test : End of program
+backup_logger - 2021-06-15 22:02:11,245 - INFO - logger - 2021-06-15 22:02:11,245 - INFO - test : Input : 0
+backup_logger - 2021-06-15 22:02:11,291 - ERROR - logger - 2021-06-15 22:02:11,291 - ERROR - test : division by zero
+backup_logger - 2021-06-15 22:02:11,292 - INFO - logger - 2021-06-15 22:02:11,292 - INFO - test : End of program
+backup_logger - 2021-06-15 22:03:16,554 - INFO - logger - 2021-06-15 22:03:16,554 - INFO - test : Input : 0
+backup_logger - 2021-06-15 22:03:16,555 - ERROR - logger - 2021-06-15 22:03:16,555 - ERROR - test : division by zero
+backup_logger - 2021-06-15 22:03:16,555 - INFO - logger - 2021-06-15 22:03:16,555 - INFO - test : End of program
+backup_logger - 2021-06-15 22:03:24,771 - INFO - logger - 2021-06-15 22:03:24,770 - INFO - test : Input : 0
+backup_logger - 2021-06-15 22:03:24,772 - ERROR - logger - 2021-06-15 22:03:24,772 - ERROR - test : division by zero
+backup_logger - 2021-06-15 22:03:24,772 - INFO - logger - 2021-06-15 22:03:24,772 - INFO - test : End of program
+backup_logger - 2021-06-15 22:03:34,897 - INFO - logger - 2021-06-15 22:03:34,897 - INFO - test : Input : 0
+backup_logger - 2021-06-15 22:03:34,898 - ERROR - logger - 2021-06-15 22:03:34,898 - ERROR - test : division by zero
+backup_logger - 2021-06-15 22:03:34,899 - INFO - logger - 2021-06-15 22:03:34,899 - INFO - test : End of program
+backup_logger - 2021-06-15 22:03:45,887 - INFO - logger - 2021-06-15 22:03:45,887 - INFO - test : Input : 0
+backup_logger - 2021-06-15 22:03:45,888 - ERROR - logger - 2021-06-15 22:03:45,887 - ERROR - test : division by zero
+backup_logger - 2021-06-15 22:03:45,888 - INFO - logger - 2021-06-15 22:03:45,888 - INFO - test : End of program
+backup_logger - 2021-06-15 22:05:15,652 - INFO - logger - 2021-06-15 22:05:15,652 - INFO - test : Input : 0
+backup_logger - 2021-06-15 22:05:15,652 - ERROR - logger - 2021-06-15 22:05:15,652 - ERROR - test : division by zero
+backup_logger - 2021-06-15 22:05:15,653 - INFO - logger - 2021-06-15 22:05:15,653 - INFO - test : End of program
+backup_logger - 2021-06-15 22:06:00,579 - INFO - logger - 2021-06-15 22:06:00,579 - INFO - test : Input : 0
+backup_logger - 2021-06-15 22:06:00,580 - ERROR - logger - 2021-06-15 22:06:00,580 - ERROR - test : division by zero
+backup_logger - 2021-06-15 22:06:00,580 - INFO - logger - 2021-06-15 22:06:00,580 - INFO - test : End of program
+backup_logger - 2021-06-15 22:06:26,107 - INFO - logger - 2021-06-15 22:06:26,107 - INFO - test : Input : 0
+backup_logger - 2021-06-15 22:06:26,108 - ERROR - logger - 2021-06-15 22:06:26,108 - ERROR - test : division by zero
+backup_logger - 2021-06-15 22:06:26,109 - INFO - logger - 2021-06-15 22:06:26,109 - INFO - test : End of program
+backup_logger - 2021-06-15 22:17:07,825 - INFO - logger - 2021-06-15 22:17:07,164 - INFO - test : Input : 0
+backup_logger - 2021-06-15 22:17:07,979 - ERROR - logger - 2021-06-15 22:17:07,826 - ERROR - test : division by zero
+backup_logger - 2021-06-15 22:17:08,147 - INFO - logger - 2021-06-15 22:17:07,979 - INFO - test : End of program
+backup_logger - 2021-06-15 22:20:25,378 - INFO - logger - 2021-06-15 22:20:24,237 - INFO - test : Input : 0
+backup_logger - 2021-06-15 22:20:25,587 - ERROR - logger - 2021-06-15 22:20:25,379 - ERROR - test : division by zero
+backup_logger - 2021-06-15 22:20:25,767 - INFO - logger - 2021-06-15 22:20:25,588 - INFO - test : End of program
