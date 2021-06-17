@@ -13,7 +13,7 @@ class Operations:
         """
         try:
             self.lg = Logger("cassandra")
-            cloud_config = {'secure_connect_bundle': r'C:\Users\ASUS\Downloads\iNeuron\secure-connect-test.zip'}
+            cloud_config = {'secure_connect_bundle': r'secure-connect-test.zip'}
             auth_provider = PlainTextAuthProvider('DSgpjBMbeAnjZIXUsrpPEuaK', 'SO9EBm5T1iZd_tEahBB8MmTz6TZG_Xu9ZjNWIpbH7HMsqylz8.7XfxknpQ2bMMJ6.7-heplORnSKc1zuRGFc-m,mEi3cB+wTZZRC.LpNQZZx1e5bntf--qu,vZ9JBJe-')
             cluster = Cluster(cloud=cloud_config, auth_provider=auth_provider)
             self.session = cluster.connect()
