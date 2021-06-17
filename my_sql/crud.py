@@ -41,7 +41,6 @@ class Operations:
                     d_type = i['data_type'] + "(" + i['size'] + ")"
                 schema.append(i['col_name'] + ' ' + d_type + ' ' + i['constraint'])
             query = "create table " + table_name + " (" + ','.join(schema) + ")"
-            print(query)
             self.cursor.execute(query)
             self.my_db.commit()
             self.result = "created table " + table_name
@@ -66,7 +65,6 @@ class Operations:
             col_name = ','.join(record.keys())
             values = ','.join(list(map(lambda x: "'" + x + "'" if type(x) == str else str(x), record.values())))
             query = "insert into " + table_name + " (" + col_name + ")" + " values (" + values + ")"
-            print(query)
             self.cursor.execute(query)
             self.my_db.commit()
             self.result = "inserted a record"
@@ -140,7 +138,6 @@ class Operations:
                 val_str.append(k + "=" + new_v)
             val_str = ",".join(val_str)
             query = "update " + table_name + " set " + val_str + " where " + condition
-            print(query)
             self.cursor.execute(query)
             self.result = "updated records successfully"
             self.lg.log("info", self.result)
